@@ -1,0 +1,20 @@
+@import "~antd/dist/antd.css";
+
+.site-layout-background {
+  background: white;
+}
+
+.site-column {
+  background-color: white;
+  border-radius: 12px;
+}
+
+.site-row {
+  padding: 24px;
+}
+
+.card-first-column {
+  background-color: #e6f7ff;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
