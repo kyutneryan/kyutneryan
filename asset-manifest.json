@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kyutneryan/static/css/main.d9ba042d.css",
+    "main.js": "/kyutneryan/static/js/main.6e502d98.js",
+    "static/js/787.1ba8f665.chunk.js": "/kyutneryan/static/js/787.1ba8f665.chunk.js",
+    "static/media/ysu.jpeg": "/kyutneryan/static/media/ysu.4ab9900c709b09f1f627.jpeg",
+    "static/media/hayk-kyutneryan.jpeg": "/kyutneryan/static/media/hayk-kyutneryan.0c4f4fab2dd9ebe64d49.jpeg",
+    "static/media/united-kingdom.png": "/kyutneryan/static/media/united-kingdom.5233f022a8dc343f8a06.png",
+    "static/media/buildern.png": "/kyutneryan/static/media/buildern.3812f03282eefc89b3c2.png",
+    "static/media/russia.png": "/kyutneryan/static/media/russia.a9fb6d9599f1901ceb80.png",
+    "static/media/armenia.png": "/kyutneryan/static/media/armenia.bddbc16ed592af434f50.png",
+    "index.html": "/kyutneryan/index.html",
+    "main.d9ba042d.css.map": "/kyutneryan/static/css/main.d9ba042d.css.map",
+    "main.6e502d98.js.map": "/kyutneryan/static/js/main.6e502d98.js.map",
+    "787.1ba8f665.chunk.js.map": "/kyutneryan/static/js/787.1ba8f665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ba042d.css",
+    "static/js/main.6e502d98.js"
+  ]
+}
