@@ -24,7 +24,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/kyutneryan" width="100%" style="display:flex">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyutneryan&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyutneryan&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyutneryan&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyutneryan&layout=compact&langs_count=8&theme=default"/>
   </a>
 </p>
