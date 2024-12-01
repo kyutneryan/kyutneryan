@@ -66,17 +66,17 @@ Technologies I've Learned and Mastered Throughout My Programming Journey
 
 #### Cloud Base Technologies:
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel)
-![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-05122A?style=flat-square&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
+![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonwebservices)
+![Vercel](https://img.shields.io/badge/-Vercel-333?style=for-the-badge&logo=vercel)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-333?style=for-the-badge&logo=digitalocean)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=Firebase)
 
 #### OS & IDE & Tools:
 
-![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=macos)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)
+![Mac](https://img.shields.io/badge/-Mac-333?style=for-the-badge&logo=macos)
+![Windows](https://img.shields.io/badge/-Windows-333?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333?style=for-the-badge&logo=ubuntu)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-333?style=for-the-badge&logo=gitlab)
 
