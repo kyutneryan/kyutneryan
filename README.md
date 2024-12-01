@@ -1,4 +1,4 @@
-## Hi, there! I am Hayk 👋
+## Hello! I'm Hayk 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-e4e4e7?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/kyutneryan/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-e4e4e7?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:hayk.kyutneryan@gmail.com)
